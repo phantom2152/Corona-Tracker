@@ -15,3 +15,4 @@ print("Active Cases:" + str(pp['active']))
 print("Deaths:"+str(pp['deaths']))
 print("Recovered:"+str(pp['recovered']))
 print(pyfiglet.figlet_format("WEAR MASK AND BE SAFE", font="slant"))
+#Hey bud
